@@ -1,0 +1,22 @@
+C:\Users\30006128\Desktop\The Elements\The Elements\bin\Debug\netcoreapp2.1\The Elements.deps.json
+C:\Users\30006128\Desktop\The Elements\The Elements\bin\Debug\netcoreapp2.1\The Elements.runtimeconfig.json
+C:\Users\30006128\Desktop\The Elements\The Elements\bin\Debug\netcoreapp2.1\The Elements.runtimeconfig.dev.json
+C:\Users\30006128\Desktop\The Elements\The Elements\bin\Debug\netcoreapp2.1\The Elements.dll
+C:\Users\30006128\Desktop\The Elements\The Elements\bin\Debug\netcoreapp2.1\The Elements.pdb
+C:\Users\30006128\Desktop\The Elements\The Elements\obj\Debug\netcoreapp2.1\The Elements.csprojAssemblyReference.cache
+C:\Users\30006128\Desktop\The Elements\The Elements\obj\Debug\netcoreapp2.1\The Elements.csproj.CoreCompileInputs.cache
+C:\Users\30006128\Desktop\The Elements\The Elements\obj\Debug\netcoreapp2.1\The Elements.AssemblyInfoInputs.cache
+C:\Users\30006128\Desktop\The Elements\The Elements\obj\Debug\netcoreapp2.1\The Elements.AssemblyInfo.cs
+C:\Users\30006128\Desktop\The Elements\The Elements\obj\Debug\netcoreapp2.1\The Elements.dll
+C:\Users\30006128\Desktop\The Elements\The Elements\obj\Debug\netcoreapp2.1\The Elements.pdb
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\bin\Debug\netcoreapp2.1\The Elements.deps.json
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\bin\Debug\netcoreapp2.1\The Elements.runtimeconfig.json
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\bin\Debug\netcoreapp2.1\The Elements.runtimeconfig.dev.json
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\bin\Debug\netcoreapp2.1\The Elements.dll
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\bin\Debug\netcoreapp2.1\The Elements.pdb
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\obj\Debug\netcoreapp2.1\The Elements.csprojAssemblyReference.cache
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\obj\Debug\netcoreapp2.1\The Elements.csproj.CoreCompileInputs.cache
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\obj\Debug\netcoreapp2.1\The Elements.AssemblyInfoInputs.cache
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\obj\Debug\netcoreapp2.1\The Elements.AssemblyInfo.cs
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\obj\Debug\netcoreapp2.1\The Elements.dll
+C:\Users\30006128\Desktop\Exercises Part 1\The Elements\obj\Debug\netcoreapp2.1\The Elements.pdb
